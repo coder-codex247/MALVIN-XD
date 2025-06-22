@@ -9,14 +9,14 @@
   "env": {
       "SESSION_ID": {
         "description": "Put your SESSION_ID here. Make sure it starts with malvin~",
-        "value":"",
+        "value":"malvin~JyMBwJyT#k6KfkOjeT6c4x7grsfSuPM7fdU9HzOidcf0pNfXWo8k",
         "required": true
         
     },
       "BOT_NAME": {
         "description": "write here your bot name.",
         "required": true,
-        "value": "ᴍᴀʟᴠɪɴ xᴅ" 
+        "value": "ᴄᴏᴅᴇᴅ ᴍᴅ" 
         
     },
      "PREFIX": {
@@ -33,20 +33,20 @@
    },
      "DESCRIPTION": {
       "description": "add caption for menu and other",
-      "value": "> *© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍᴀʟᴠɪɴ xᴅ*",
+      "value": "> *© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴄᴏᴅᴇx*",
       "required": true
       
    }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
-      "value": "263714757857"
+      "value": "2348144541791"
       "required": true
       
    },
     "OWNER_NAME": {
       "description": "Enter your name here",
-      "value": "",
+      "value": "𝕔𝕠𝕕𝕖𝕩",
       "required": true
     }
 
