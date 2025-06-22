@@ -15,12 +15,12 @@
       "BOT_NAME": {
         "description": "write here your bot name.",
         "required": true,
-        "value": "ᴍᴀʟᴠɪɴ-xᴅ"      
+        "value": "ᴄᴏᴅᴇᴅ xᴅ"      
     },  
     "MODE": {
       "description": "Set private/public/inbox/groups",
       "required": false,
-      "value": "public"
+      "value": "private"
      },
    
     "PREFIX": {
@@ -32,12 +32,12 @@
     "OWNER_NAME": {
       "description": "Put Owner Name Here",
       "required": true,
-      "value": "ᴍᴀʟᴠɪɴ ᴋɪɴɢ"
+      "value": "𝕔𝕠𝕕𝕖𝕩"
     },
     "OWNER_NUMBER": {
       "description": "Put only one Owner Number Here",
       "required": true,
-      "value": "263714757857"
+      "value": "2348144541791"
     },
     
     "PRESENCE": {
